@@ -1,3 +1,10 @@
+
+# Add SASS to a React App
+
+after using create-react-app install sass
+
+npm i sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
